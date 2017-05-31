@@ -11,7 +11,7 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "All Resorts (Bookings)"
+  title = "Bookings (All Resorts"
   alt = ""
   source = "img/pic02.jpg"
   url = "http://www.bahia-principe.com/en/resorts-in-riviera-maya/"
@@ -27,7 +27,7 @@ theme = "prologue"
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Southwest Flight Search"
+  title = "Flights (Southwest)"
   alt = ""
   source = "img/pic06.jpg"
   url = "https://www.southwest.com/flight/shortcut/low-fare-search.html"
