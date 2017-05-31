@@ -16,8 +16,18 @@ theme = "prologue"
   source = "img/pic02.jpg"
   url = "#"
 
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Magna Nullam"
   alt = ""
-  source = "img/pic03.jpg"
+  source = "img/pic04.jpg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Dolor Penatibus"
+  alt = ""
+  source = "img/pic06.jpg"
   url = "#"
