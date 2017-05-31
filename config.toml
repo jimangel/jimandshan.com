@@ -27,7 +27,7 @@ theme = "prologue"
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Link to google flights <br>don't forget to check <a href='https://www.southwest.com/flight/search-flight.html'>southwest.com</a>"
+  title = "Link to google flights (don't forget to check southwest.com)"
   alt = ""
   source = "img/pic06.jpg"
   url = "https://www.google.com/flights/flights-to-cancun.html"
