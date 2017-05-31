@@ -36,7 +36,7 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ipsum Feugiat"
+  title = "SHANNON OSIKA"
   alt = ""
   source = "img/pic02.jpg"
   url = "#"
