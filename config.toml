@@ -6,17 +6,7 @@ theme = "prologue"
 [params]
   name = "Jim & Shannon"
   description = "11/25/17"
-  copyright = "Untitled."
-
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
-
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "#"
+  copyright = "Jim & Shannon Angel."
 
 # Portfolio column one
 
