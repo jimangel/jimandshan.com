@@ -11,10 +11,10 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Link to all 4 resorts"
-  alt = "http://www.bahia-principe.com/en/resorts-in-riviera-maya/"
+  title = "Link to all resorts"
+  alt = ""
   source = "img/pic02.jpg"
-  url = "#"
+  url = "http://www.bahia-principe.com/en/resorts-in-riviera-maya/"
 
 # Portfolio column two
 
