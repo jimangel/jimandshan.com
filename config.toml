@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "https://jimandshan.com/"
 theme = "prologue"
 
 [params]
