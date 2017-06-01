@@ -1,13 +1,13 @@
 languageCode = "en-us"
-title = "Jim & Shannon Angel | 2017"
+title = "Jim and Shan | 2017"
 baseurl = "https://jimandshan.com/"
 theme = "prologue"
 googleAnalytics = "UA-100200937-1"
 
 [params]
-  name = "Jim & Shannon"
+  name = "Jim and Shan"
   description = "11/25/17"
-  copyright = "Jim & Shannon Angel."
+  copyright = "Jim and Shan"
 
 # Portfolio column one
 
